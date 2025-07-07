@@ -1,7 +1,7 @@
 # RA on GameCube with libogc2 support
 
 
-See dist-scripts folder for zipped core sources.
+See the dist-scripts folder for zipped core sources compatible with this version.
 
 
 This is mainly identical to my original RA fork (known as Hexaeco or Shin-RA) but has fixes that allows it to compile on the latest devkitppc.
